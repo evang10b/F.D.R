@@ -61,4 +61,7 @@ This beater disk never made it to the final model due to my lack of skills to im
 
 
 # Duration
-This took 20 hours of rebuilding and redesigning. I have only 1-2 months of onshape experience meaning this can be made by beginners. 
+This took 20 hours of rebuilding and redesigning. I have only 1-2 months of onshape experience meaning this can be made by beginners.
+
+# Credits:
+- MT Engineering
