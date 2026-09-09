@@ -14,9 +14,9 @@ F.D.R basically stand for functional drone. It is a designed case to be able to 
 The frame started very simple. This was my initial frame but had to be changed because of an error
 <img width="500" height="500" alt="Screenshot 2026-09-06 at 21 00 40" src="https://github.com/user-attachments/assets/6845304f-223e-410b-a4b0-0ddacd94b570" />
 
+------
 
-
-The leg was also much more simple with no propeller gaurd
+The leg was also much more simple with no propeller gaurd. 
 <img width="500" height="500" alt="Screenshot 2026-09-06 at 21 02 27" src="https://github.com/user-attachments/assets/1fe62242-96aa-4769-949f-c1de2ec37053" />
 
 ------
@@ -46,7 +46,7 @@ I also improve the case modifying its measurements and reducing it air resistanc
 
 -----
 This beater disk never made it to the final model due to my lack of skills to implement it to the model ;(
-<img width="500" height="500" alt="Screenshot 2026-09-06 at 21 05 15" src="https://github.com/user-attachments/assets/f8de2bd8-25c7-4ade-b437-0936092a7849" />
+<img width="300" height="300" alt="Screenshot 2026-09-06 at 21 05 15" src="https://github.com/user-attachments/assets/f8de2bd8-25c7-4ade-b437-0936092a7849" />
 
 
 # Duration
