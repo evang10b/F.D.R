@@ -1,6 +1,7 @@
 # F.D.R
 A 3D modeled drone made with Onshape with a built-in flashlight and camera. 
 
+
 # Its purpose
 F.D.R basically stand for functional drone. It is a designed case to be able to withstand air force. *It is a practice model, meaning it is not suitable to power with electricity. It can be used purely as a template but it is not functionable.
 
@@ -54,6 +55,12 @@ This beater disk never made it to the final model due to my lack of skills to im
 
 -----
 
+# Assembly instructions:
+Exploded view: 
+<img width="500" height="500" alt="Screenshot 2026-10-30 at 15 29 19" src="https://github.com/user-attachments/assets/4e58a215-bd7d-4af7-9a10-ce4daf51b0ad" />
+
+[Assembly FDR Drawing.pdf](https://github.com/user-attachments/files/34189403/Assembly.FDR.Drawing.pdf)
+
 # Future Improvements:
 - Improve joints
 - Improve the mechanisma for each propeller and make it much more accesible.
@@ -62,6 +69,10 @@ This beater disk never made it to the final model due to my lack of skills to im
 
 # Duration
 This took 20 hours of rebuilding and redesigning. I have only 1-2 months of onshape experience meaning this can be made by beginners.
+
+# Links
+https://cad.onshape.com/documents/f5f7eb2614957307b4720381/w/03ec715962541749f9a71ff2/e/2d20b9c38ebb88ce5911f2c0
+https://www.printables.com/model/1896116-fdr-drone
 
 # Credits:
 - MT Engineering
